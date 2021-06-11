@@ -1,0 +1,31 @@
+{
+    "name": "mirrorspeed3 ",
+    "description": "Telegram mirror bot with python",
+    "logo": "https://telegra.ph/file/d186e416813354d3db320.jpg",
+    "keywords": [
+      "bot",
+      "telegram",
+      "python"
+    ],
+    "repository": "https://github.com/FREAK-HEAD/custom-aria",
+    "website": "https://t.me/Reaper_OX",
+    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+    "stack": "container",
+    "env": {
+      "ENV": {
+      "description": "Setting this to ANYTHING will enable Webhooks when in env mode",
+      "value": "ANYTHING"
+      },
+      "TOR_KEY": {
+        "description": "Get torr key from @Tor_Key_Bot.",
+        "value" : "false",
+        "required": false
+      },
+      "BOT_TOKEN": {
+        "description": "The telegram bot token that you get from @BotFather.",
+        "value" : "1711163062:AAF5-wNwn0nP2lOcV2x_qRmfVjfNWpCmXLU",
+        "required": false
+
+      }
+    }
+}
