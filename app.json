@@ -7,9 +7,9 @@
       "telegram",
       "python"
     ],
-    "repository": "https://github.com/FREAK-HEAD/custom-aria",
+    "repository": "https://github.com/FREAK-HEAD/TorrentSearch",
     "website": "https://t.me/Reaper_OX",
-    "success_url": "https://github.com/lzzy12/python-aria-mirror-bot/blob/master/README.md",
+    "success_url": "https://github.com/xditya/TorrentSearch/blob/master/README.md",
     "stack": "container",
     "env": {
       "ENV": {
