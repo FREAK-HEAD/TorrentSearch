@@ -18,13 +18,13 @@
       },
       "TOR_KEY": {
         "description": "Get torr key from @Tor_Key_Bot.",
-        "value" : "false",
-        "required": false
+        "value" : "U2FsdGVkX19GslO4yTNCrUMon5v0oNylrzCnM03IU7nu3oxoJ74OJcGTyzdXS+FR",
+        "required": true
       },
       "BOT_TOKEN": {
         "description": "The telegram bot token that you get from @BotFather.",
         "value" : "1711163062:AAF5-wNwn0nP2lOcV2x_qRmfVjfNWpCmXLU",
-        "required": false
+        "required": true
 
       }
     }
